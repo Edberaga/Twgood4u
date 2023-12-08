@@ -20,7 +20,7 @@ function App() {
         <div class="container">
             <div class="flex items-center justify-center relative">
                 <div class="max-w-xl text-center text-white py-20">
-                    <a href="#" class="flex justify-center mx-auto mb-12"><img src={logo} alt="logo" class="h-12"/></a>
+                    <a href="https://wegood4u.com/" target="_blank" class="flex justify-center mx-auto mb-12"><img src={logo} alt="logo" class="h-12"/></a>
                     <h2 class="text-4xl mb-7">We Are Coming Soon...</h2>
                     <p class="text-neutral-300">We are currently working on our new website.<br/>We will be here soon, We will notify you when we finish the Sites!.</p>
                     <Notify/>
